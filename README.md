@@ -1,12 +1,12 @@
 # Concurso Devigo
 
-Projeto de uma lista de estudantes do desafio 02 do Stage 04 do Explorer da Rocketseat.
+Projeto contendo uma lista de estudantes com suas notas e respectivas situações.
 
 ![image](https://user-images.githubusercontent.com/107502907/191526161-2ea1744b-88c0-422f-b35d-8ef70aa36be3.png)
 
 ## Descrição
 
-Aplicação de introdução ao JavaScript, para apresentação de uma lista de estudantes com suas respectivas notas e situações de aprovados ou não.
+Aplicação de introdução ao JavaScript, para apresentação de uma lista de estudantes com suas respectivas notas e situações de aprovados, reprovados ou em cadastro reserva.
 
 Para apresentação da lista, utilizei de estruturas de repetição, através de alerts e prompts.
 
@@ -32,11 +32,11 @@ Para conferir o projeto, acesse:
 
 # Devigo Contest
 
-Project of a list of students from Rocketseat's Explorer Stage 04 Challenge 02.
+Project containing a list of students with their grades and respective situations.
 
 ## Description
 
-Application of introduction to JavaScript, to present a list of students with their respective grades and situations of passing or not.
+Application of introduction to JavaScript, to present a list of students with their respective grades and situations of approved, disapproved or in reserve registration.
 
 To present the list, I used repetition structures, through alerts and prompts.
 
