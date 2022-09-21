@@ -20,7 +20,7 @@ Para apresentação da lista, utilizei de estruturas de repetição, através de
 
 Para conferir o projeto, acesse:
 
-- https://higomoreiraq.github.io/Concurso-Devigo-Challenge-JS-02/
+- https://higomoreiraq.github.io/devigo-contest/
 
 ## Contato
 
@@ -50,7 +50,7 @@ To present the list, I used repetition structures, through alerts and prompts.
 
 To see the project, visit:
 
-- https://higomoreiraq.github.io/Concurso-Devigo-Challenge-JS-02/
+- https://higomoreiraq.github.io/devigo-contest/
 
 ## Contact
 
